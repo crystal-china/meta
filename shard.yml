@@ -1,0 +1,10 @@
+name: meta
+version: 0.1.0
+
+authors:
+  - Ary Borenszweig
+  - Billy.Zheng <vil963@gmail.com>
+
+crystal: '>= 1.16.3'
+
+license: MIT
